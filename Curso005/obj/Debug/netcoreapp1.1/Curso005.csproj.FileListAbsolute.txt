@@ -1,0 +1,6 @@
+c:\users\corre\onedrive\documentos\visual studio 2017\Projects\Curso005\Curso005\bin\Debug\netcoreapp1.1\Curso005.deps.json
+c:\users\corre\onedrive\documentos\visual studio 2017\Projects\Curso005\Curso005\bin\Debug\netcoreapp1.1\Curso005.runtimeconfig.json
+c:\users\corre\onedrive\documentos\visual studio 2017\Projects\Curso005\Curso005\bin\Debug\netcoreapp1.1\Curso005.runtimeconfig.dev.json
+c:\users\corre\onedrive\documentos\visual studio 2017\Projects\Curso005\Curso005\bin\Debug\netcoreapp1.1\Curso005.dll
+c:\users\corre\onedrive\documentos\visual studio 2017\Projects\Curso005\Curso005\obj\Debug\netcoreapp1.1\Curso005.csprojResolveAssemblyReference.cache
+c:\users\corre\onedrive\documentos\visual studio 2017\Projects\Curso005\Curso005\obj\Debug\netcoreapp1.1\Curso005.AssemblyInfo.cs
