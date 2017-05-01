@@ -4,3 +4,12 @@ c:\users\corre\onedrive\documentos\visual studio 2017\Projects\Curso005\Curso005
 c:\users\corre\onedrive\documentos\visual studio 2017\Projects\Curso005\Curso005\bin\Debug\netcoreapp1.1\Curso005.dll
 c:\users\corre\onedrive\documentos\visual studio 2017\Projects\Curso005\Curso005\obj\Debug\netcoreapp1.1\Curso005.csprojResolveAssemblyReference.cache
 c:\users\corre\onedrive\documentos\visual studio 2017\Projects\Curso005\Curso005\obj\Debug\netcoreapp1.1\Curso005.AssemblyInfo.cs
+C:\Users\corre\OneDrive\Documentos\RepositoriosGitHub\Curso005\Curso005\bin\Debug\netcoreapp1.1\Curso005.deps.json
+C:\Users\corre\OneDrive\Documentos\RepositoriosGitHub\Curso005\Curso005\bin\Debug\netcoreapp1.1\Curso005.runtimeconfig.json
+C:\Users\corre\OneDrive\Documentos\RepositoriosGitHub\Curso005\Curso005\bin\Debug\netcoreapp1.1\Curso005.runtimeconfig.dev.json
+C:\Users\corre\OneDrive\Documentos\RepositoriosGitHub\Curso005\Curso005\bin\Debug\netcoreapp1.1\Curso005.dll
+C:\Users\corre\OneDrive\Documentos\RepositoriosGitHub\Curso005\Curso005\obj\Debug\netcoreapp1.1\Curso005.csprojResolveAssemblyReference.cache
+C:\Users\corre\OneDrive\Documentos\RepositoriosGitHub\Curso005\Curso005\obj\Debug\netcoreapp1.1\Curso005.AssemblyInfo.cs
+C:\Users\corre\OneDrive\Documentos\RepositoriosGitHub\Curso005\Curso005\bin\Debug\netcoreapp1.1\Curso005.pdb
+C:\Users\corre\OneDrive\Documentos\RepositoriosGitHub\Curso005\Curso005\obj\Debug\netcoreapp1.1\Curso005.dll
+C:\Users\corre\OneDrive\Documentos\RepositoriosGitHub\Curso005\Curso005\obj\Debug\netcoreapp1.1\Curso005.pdb

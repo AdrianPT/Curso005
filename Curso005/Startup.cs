@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Curso005.Models;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace Curso005
 {
@@ -27,8 +30,21 @@ namespace Curso005
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<ApplicationDbContext>(options =>
+             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddIdentity<ApplicationUser, ApplicationRole>()
+           .AddEntityFrameworkStores<ApplicationDbContext>()
+           .AddDefaultTokenProviders();
+
+            
             // Add framework services.
             services.AddMvc();
+
+
+
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,6 +64,10 @@ namespace Curso005
             }
 
             app.UseStaticFiles();
+
+
+            app.UseIdentity();
+
 
             app.UseMvc(routes =>
             {
